@@ -1,0 +1,8 @@
+{
+    "instanceFolder": "instances",
+
+    "urls": {
+        "bungee": "https://papermc.io/api/v2/projects/waterfall/versions/1.16/builds/403/downloads/waterfall-1.16-403.jar",
+        "spigot": "https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/553/downloads/paper-1.16.5-553.jar"
+    }
+}

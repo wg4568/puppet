@@ -1,0 +1,24 @@
+{
+    "name": "puppet",
+    "version": "1.0.0",
+    "description": "Config synchronization for Minecraft",
+    "scripts": {
+        "launch": "node launchlib/launchSpigot.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wg4568/puppet.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wg4568/puppet/issues"
+    },
+    "homepage": "https://github.com/wg4568/puppet#readme",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "prettier": "^2.2.1",
+        "readline": "^1.3.0",
+        "typescript": "^4.2.4"
+    }
+}
