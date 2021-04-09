@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Config synchronization for Minecraft",
     "scripts": {
-        "launch": "node launchlib/launchSpigot.js"
+        "launch": "node tools/launchSpigot.js"
     },
     "repository": {
         "type": "git",
