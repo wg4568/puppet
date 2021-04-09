@@ -1,2 +1,5 @@
+java/*/target/
+java/*/out/
 node_modules/
 instances/
+.vscode/

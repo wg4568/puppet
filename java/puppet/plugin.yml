@@ -1,0 +1,8 @@
+name: Puppet
+main: net.gardna.puppet.Puppet
+version: "0.1"
+api-version: 1.16
+commands:
+  mycommand:
+    usage: /mycommand
+    description: does a thing
